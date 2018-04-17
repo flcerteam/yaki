@@ -14,8 +14,8 @@ composer install
 
 Copy .env.example cp .env.example .env
 
-Run migration and seed default data with php artisan migrate --seed
+Run migration and seed default data with <b>php artisan migrate --seed</b>
 
-Symlink the storage folder to public. Run php artisan storage:link. This is important to display the uploaded images
+Symlink the storage folder to public. Run <b>php artisan storage:link</b>. This is important to display the uploaded images
 
-If you run your app with php artisan serve connect to your installed db connection
+If you run your app with <b>php artisan serve</b> connect to your installed db connection
