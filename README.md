@@ -2,7 +2,7 @@
 
 #   BUILD AND COMPILE ASSETS
 
-If you haven't install node, <a src="https://nodejs.org/en/download/">install it now</a>
+If you haven't install node, <a src="https://nodejs.org/en/download/">download it now</a>
 
 Run: npm install
 
