@@ -1,6 +1,6 @@
-# yaki
+# yaki Project
 
-BUILD AND COMPILE ASSETS
+#   BUILD AND COMPILE ASSETS
 
 If you haven't install node, install it now
 
@@ -8,7 +8,7 @@ Run: npm install
 
 Then: npm run dev and wait for it to compile (currently, only admin assets are being compiled)
 
-How to configure
+#   How to configure
 
 composer install
 
