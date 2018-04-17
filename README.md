@@ -4,9 +4,9 @@
 
 If you haven't install node, <a src="https://nodejs.org/en/download/">download it now</a>
 
-Run: npm install
+Run: <b>npm install</b>
 
-Then: npm run dev and wait for it to compile (currently, only admin assets are being compiled)
+Then: <b>npm run dev</b> and wait for it to compile (currently, only admin assets are being compiled)
 
 #   How to configure
 
